@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <head></head>
   <body>
     <H1>Ranak Maity</H1>
-    <pre>About Me- Always willing to learn new, currently a student who studies and in free time i learn new skills</pre>
+    <pre>About Me- A dedicated student with a passion of data science , actively building skills in Python ,MYSQL,etc</pre>
     <h3>Aim:- Data Scientist </h3>
     <pre>Skills : <pre>
       <ul type="circle">
