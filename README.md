@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <html>
-  <head>
-    <title>Portfolio</title>
-
-  </head>
+  <head></head>
   <body>
     <H1>Ranak Maity</H1>
     <pre>About Me- Always willing to learn new, currently a student who studies and in free time i learn new skills</pre>
+    <h3>Aim:- Data Scientist </h3>
     <pre>Skills : <pre>
       <ul type="circle">
         <li>Programming Language</li>
