@@ -17,18 +17,13 @@ Here are some ideas to get you started:
 
 <html>
   <head>
-    <title></title>
-    <style>
-      *{
-        background-color:aqua;
-        }
-    </style>
-  </head>
+   </head>
   <body>
-    <H1 style="color:red">Ranak Maity</H1>
-    <pre>About Me- A dedicated student with a passion of data science , actively building skills in Python ,MYSQL,etc</pre>
-    <h3 >Aim:-Want to persue carrier in Data Science </h3>
-    <Span>Skills : </Span>
+    <H1>Ranak Maity</H1>
+    <h3>Education:-Currently First Year in B.s.c in C.S</h3>
+    <pre>About Me- A dedicated student with a passion of data science , actively building skills in Python , MYSQL,etc.</pre>
+    <span>Aim:-Want to pursue carrier in Data Science </span><br>
+    <Span> Skills :- </Span>
       <ul type="circle">
         <li>Programming Language</li>
         <ol type="1">
@@ -47,7 +42,8 @@ Here are some ideas to get you started:
             <li>MYSQL</li>
           </ol>
       </ul>
-      <footer>Contact no :- 9619509485 </footer><br>
+    <b>***Contact*** </b><br>
+      <footer>Mobile no :- 9619509485 </footer><br>
       <footer>Email id :- maity3016@gmail.com </footer>
         
           
