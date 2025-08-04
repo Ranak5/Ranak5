@@ -43,8 +43,10 @@ Here are some ideas to get you started:
           </ol>
       </ul>
     <b>***Contact*** </b><br>
-      <footer>Mobile no :- 9619509485 </footer><br>
-      <footer>Email id :- maity3016@gmail.com </footer>
+    <ol type="1">
+      <li><footer>Mobile no :- 9619509485 </footer></li>
+      <li><footer>Email id :- maity3016@gmail.com </footer></li>
+    </ol>
         
           
   </body>
