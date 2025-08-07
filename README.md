@@ -23,6 +23,7 @@ Here are some ideas to get you started:
     <h3>Education:-Currently First Year in B.s.c in C.S</h3>
     <pre>About Me- A dedicated student with a passion of data science , actively building skills in Python , MYSQL,etc.</pre>
     <span>Aim:-Want to pursue carrier in Data Science </span><br>
+    <hr>
     <Span> Skills :- </Span>
       <ul type="circle">
         <li>Programming Language</li>
@@ -42,11 +43,13 @@ Here are some ideas to get you started:
             <li>MYSQL</li>
           </ol>
       </ul>
+    <hr>
     <b>***Contact*** </b><br>
-    <ol type="1">
+    <ol type="a">
       <li><footer>Mobile no :- 9619509485 </footer></li>
       <li><footer>Email id :- maity3016@gmail.com </footer></li>
     </ol>
+    <hr>
         
           
   </body>
