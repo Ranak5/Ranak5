@@ -1,39 +1,38 @@
 ## Hi there 👋
 
-<html>
-  <head>
-   </head>
-  <body>
-    <H1>Ranak Maity</H1>
-    <h3>Education:-Currently First Year in B.S.C in C.S</h3>
+# Ranak Maity
 
-    About Me - A dedicated student with a passion for data science, actively building skills in Python, MySQL, etc.
+### Education
+Currently First Year in B.S.C in Computer Science
 
-Aim - Want to pursue a career in Data Science
+---
 
---------------------------------------------------
+### About Me
+A dedicated student with a passion for data science, actively building skills in Python, MySQL, etc.
 
-Skills :-
-- Programming Languages
-  1. Python
-  2. R
-  3. C++
+### Aim
+Want to pursue a career in Data Science
 
-- Web Development
-  1. HTML
-  2. CSS
-  3. JavaScript
+---
 
-- Database Management
-  1. MySQL
+### Skills
+- **Programming Languages**
+  1. Python  
+  2. R  
+  3. C++  
 
---------------------------------------------------
+- **Web Development**
+  1. HTML  
+  2. CSS  
+  3. JavaScript  
 
-***Contact***
-a. Mobile no :- 9619******
-b. Email id :- maity3016@gmail.com
+- **Database Management**
+  1. MySQL  
 
---------------------------------------------------
-  </body>
-</html>
+---
 
+### Contact
+- Mobile no: 9619******  
+- Email id: maity3016@gmail.com  
+
+---
