@@ -49,28 +49,29 @@ I clean ugly data, ask questions of it in SQL and Python, and turn the answer in
 
 ## 📊 Projects worth your time
 
+## 📊 Projects worth your time
+
+- **[Hospital Management & Operations Analysis](https://github.com/Ranak5/hospital-management-data-analysis)**  
+  - **The Scope:** Analyzed 200 appointments, 200 treatments, and 200 billing records across relational MySQL tables using complex joins, CTEs, and aggregations alongside Pandas EDA.  
+  - **The Findings:** Mapped doctor workloads, specialization demand, and operational bottlenecks. Quantified $551.25K in total treatment revenue while identifying a critical operational issue: 34.5% pending and 33.5% failed billing states.  
+  - **The Delivery:** Translated insights into an interactive Power BI dashboard for tracking operational flow.  
+  `MySQL` `Python` `Pandas` `Power BI`
+
 - **[Credit Card Customer Churn Analysis](https://github.com/Ranak5/credit-card-customer-churn-analysis)**  
-  Explored what actually predicts a customer closing their credit card account — cleaning, EDA, and visualizing the behavioral patterns behind churn.  
-  `Python` `Pandas` `Matplotlib/Seaborn`
+  - **The Scope:** Explored 10,000 customer records using Python and Pandas to isolate behavioral and demographic predictors of account termination.  
+  - **The Findings:** Established an overall churn rate of 20.37%. Uncovered that Germany suffered the highest regional churn at 32.44% and that account inactivity heavily multiplied attrition risk.  
+  - **The Delivery:** Built an interactive Power BI dashboard mapping high-risk customer segments to support retention strategy planning.  
+  `Python` `Pandas` `Power BI` `Matplotlib/Seaborn`
 
-- **[Hospital Management Data Analysis](https://github.com/Ranak5/hospital-management-data-analysis)**  
-  Dug into hospital operations data to surface critical patterns in patient flow and resource utilization.  
-  `Python` `Pandas` `EDA`
-
-- **[Domino's SQL Analysis](https://github.com/Ranak5/Dominos_SQL_Analysis)**  
-  Wrote advanced SQL queries against a business dataset to answer real sales questions — best sellers, revenue trends, and peak order patterns.  
+- **[Domino's Sales & Customer Analysis](https://github.com/Ranak5/Dominos_SQL_Analysis)**  
+  - **The Scope:** Wrote advanced MySQL queries against transactional data to evaluate revenue generation, time-series growth trends, and product performance.  
+  - **The Findings:** Isolated top-performing menu items, high-demand peak ordering windows, and repeat customer ordering frequencies.  
+  - **The Delivery:** Generated actionable metrics designed to guide retail staffing schedules, inventory stocking, and promotional bundling decisions.  
   `SQL` `MySQL`
 
-- **[Sales Data Analysis](https://github.com/Ranak5/Sales-Analysis)**  
-  End-to-end look at a retail sales dataset — cleaning, trend analysis, and actionable visualizations driving revenue insights.  
-  `Python` `Pandas` `Seaborn`
-
-- **[Olympic Sports Analysis](https://github.com/Ranak5/Olympic-Sport-Analysis)**  
-  Analyzed decades of historical Olympic data to track country, sport, and medal distribution trends over time.  
-  `Python` `Pandas` `Matplotlib`
-
 - **[Data Handling Toolkit](https://github.com/Ranak5/Ranak-Data-Handling-Toolkit)**  
-  A custom set of reusable Python utilities built to streamline recurring data cleaning and preprocessing tasks.  
+  - **The Purpose:** A custom modular Python toolkit engineered to eliminate redundant boilerplate code across data preprocessing workflows.  
+  - **The Functionality:** Automates repetitive data inspection and initial cleaning tasks while preserving fine-grained analyst control over custom transformation logic.  
   `Python`
 
 ---
