@@ -48,8 +48,6 @@ Analyzed decades of Olympic data to find country, sport, and medal trends over t
 A set of reusable Python utilities I built for the cleaning/preprocessing steps I found myself repeating across projects.
 `Python`
 
-> ⚠️ Quick note to future-me: add one real number to each of these (rows cleaned, % improvement, key finding) — that's what actually makes a recruiter click in.
-
 ---
 
 ## Right now I'm working on
@@ -66,6 +64,8 @@ A set of reusable Python utilities I built for the cleaning/preprocessing steps 
 I'm actively looking for a **Data Analyst / Data Science internship** — if you're building something data-heavy and want an extra pair of hands, reach out.
 
 📧 [maity3016@gmail.com](mailto:maity3016@gmail.com)
+
 💼 [LinkedIn](https://www.linkedin.com/in/ranak-maity/)
+
 🧠 [LeetCode](https://leetcode.com/u/Ranak5_Maity/)
 
