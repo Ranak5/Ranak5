@@ -86,12 +86,15 @@ I clean ugly data, ask questions of it in SQL and Python, and turn the answer in
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranak5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ranak's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranak5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranak5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ranak's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranak5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
