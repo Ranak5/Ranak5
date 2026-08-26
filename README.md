@@ -55,7 +55,7 @@ I clean ugly data, ask questions of it in SQL and Python, and turn the answer in
   - **The Delivery:** Translated insights into an interactive Power BI dashboard for tracking operational flow.  
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Ranak5/hospital-management-data-analysis/main/assets/hospital-dashboard.png" alt="Hospital Management Dashboard Preview" width="100%" />
+    <img src="https://raw.githubusercontent.com/Ranak5/Ranak5/main/Dashboard.png" alt="Hospital Management Dashboard Preview" width="100%" />
   </p>
 
   `MySQL` `Python` `Pandas` `Power BI`
@@ -66,11 +66,11 @@ I clean ugly data, ask questions of it in SQL and Python, and turn the answer in
   - **The Delivery:** Built an interactive Power BI dashboard mapping high-risk customer segments to support retention strategy planning.  
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Ranak5/credit-card-customer-churn-analysis/main/assets/churn-dashboard.png" alt="Credit Card Customer Churn Dashboard Preview" width="100%" />
+    <img src="https://raw.githubusercontent.com/Ranak5/Ranak5/main/dashboard.png" alt="Credit Card Customer Churn Dashboard Preview" width="100%" />
   </p>
 
   `Python` `Pandas` `Power BI` `Matplotlib/Seaborn`
-
+  
 - **[Domino's Sales & Customer Analysis](https://github.com/Ranak5/Dominos_SQL_Analysis)**  
   - **The Scope:** Wrote advanced MySQL queries against transactional data to evaluate revenue generation, time-series growth trends, and product performance.  
   - **The Findings:** Isolated top-performing menu items, high-demand peak ordering windows, and repeat customer ordering frequencies.  
