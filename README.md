@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Looking%20for%20Internships-brightgreen?style=flat-square" alt="Status Badge" />
 </p>
 
-I'm a 2nd-year CS student (9.15 CGPA) who got hooked on data somewhere between a messy CSV and a Pandas groupby. Now I spend most of my free time pulling apart real datasets — sales numbers, sports stats, hospital records, whatever I can get my hands on — to see what story they're actually telling.
+I'm a 2nd-year CS student (9.18 CGPA) who got hooked on data somewhere between a messy CSV and a Pandas groupby. Now I spend most of my free time pulling apart real datasets — sales numbers, sports stats, hospital records, whatever I can get my hands on — to see what story they're actually telling.
 
 Long-term I'm headed toward an M.Sc in Data Science. Right now I'm just trying to get good enough to be useful to a team as a Data Analyst intern.
 
