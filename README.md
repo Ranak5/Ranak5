@@ -49,18 +49,26 @@ I clean ugly data, ask questions of it in SQL and Python, and turn the answer in
 
 ## 📊 Projects worth your time
 
-## 📊 Projects worth your time
-
 - **[Hospital Management & Operations Analysis](https://github.com/Ranak5/hospital-management-data-analysis)**  
   - **The Scope:** Analyzed 200 appointments, 200 treatments, and 200 billing records across relational MySQL tables using complex joins, CTEs, and aggregations alongside Pandas EDA.  
   - **The Findings:** Mapped doctor workloads, specialization demand, and operational bottlenecks. Quantified $551.25K in total treatment revenue while identifying a critical operational issue: 34.5% pending and 33.5% failed billing states.  
   - **The Delivery:** Translated insights into an interactive Power BI dashboard for tracking operational flow.  
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Ranak5/hospital-management-data-analysis/main/assets/hospital-dashboard.png" alt="Hospital Management Dashboard Preview" width="100%" />
+  </p>
+
   `MySQL` `Python` `Pandas` `Power BI`
 
 - **[Credit Card Customer Churn Analysis](https://github.com/Ranak5/credit-card-customer-churn-analysis)**  
   - **The Scope:** Explored 10,000 customer records using Python and Pandas to isolate behavioral and demographic predictors of account termination.  
   - **The Findings:** Established an overall churn rate of 20.37%. Uncovered that Germany suffered the highest regional churn at 32.44% and that account inactivity heavily multiplied attrition risk.  
   - **The Delivery:** Built an interactive Power BI dashboard mapping high-risk customer segments to support retention strategy planning.  
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Ranak5/credit-card-customer-churn-analysis/main/assets/churn-dashboard.png" alt="Credit Card Customer Churn Dashboard Preview" width="100%" />
+  </p>
+
   `Python` `Pandas` `Power BI` `Matplotlib/Seaborn`
 
 - **[Domino's Sales & Customer Analysis](https://github.com/Ranak5/Dominos_SQL_Analysis)**  
